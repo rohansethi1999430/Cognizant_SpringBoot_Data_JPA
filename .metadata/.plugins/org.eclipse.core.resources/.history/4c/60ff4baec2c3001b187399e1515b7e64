@@ -1,0 +1,5 @@
+package com.cognizant.quiz.model;
+
+public class User {
+
+}

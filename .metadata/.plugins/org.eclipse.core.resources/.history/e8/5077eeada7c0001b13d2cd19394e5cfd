@@ -1,0 +1,8 @@
+#Datasource Configuration Properties
+spring.datasource.driver-class-name = com.mysql.cj.jdbc.Driver
+spring.datasource.url = jdbc:mysql://localhost:3306/db_cognizant
+spring.datasource.username = root
+spring.datasource.password = DasSQL@13
+
+#ORM Properties
+spring.jpa.show-sql = true

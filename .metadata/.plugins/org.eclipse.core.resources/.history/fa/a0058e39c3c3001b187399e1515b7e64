@@ -1,0 +1,5 @@
+package com.cognizant.quiz.service;
+
+public class AttemptService {
+
+}

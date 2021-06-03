@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=4
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=3
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=quiz
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.5.0
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Data JPA and Hibernate
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.cognizant
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=handson-33-quiz
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.cognizant.quiz
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
